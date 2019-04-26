@@ -1,7 +1,8 @@
-# Distribituted-Collaborative-System-
+# Distribituted-Collaborative-System-DICE
 *Project Description*
+Distributed Information Commmunication Exchange 
 
-Two tier governance model “reflexive method” with a full set of tokenization that aligns all stakeholders together on a common mission using holacracy as a management method. SEE FIVE TYPES OF DISTRIBUTIVE NORM BEING DEFINED BY DONELSON R. FORSYTH.
+Two tier governance model “reflexive method” with a full set of tokenization that aligns all stakeholders together on a common mission where every communication is a transcation using holacracy as a management method. SEE FIVE TYPES OF DISTRIBUTIVE NORM BEING DEFINED BY DONELSON R. FORSYTH.
 
 *Project Objective*
 
